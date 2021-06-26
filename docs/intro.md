@@ -8,7 +8,7 @@ The Open Source Security Events Metadata (OSSEM) is a community-led project that
 
 # Goals
 
-* Define and share a common data moel in order to improve the data standardization and transformation of security event logs
+* Define and share a common data model in order to improve the data standardization and transformation of security event logs
 * Define and share data structures and relationships identified in security events logs
 * Provide detailed information in a dictionary format about several security event logs to the community
 * Learn more about security event logs (Windows, Linux, MacOS, Azure, AWS, etc)
